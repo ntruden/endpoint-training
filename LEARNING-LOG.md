@@ -5,3 +5,4 @@
 - Learned the three zones: working dir, staging, commit
 - Practiced branching, fast-forward merges, and conflict resolution
 - Resolved a merge conflict the wrong way (dropped a change), then fixed it - biggest lesson of the week
+test
